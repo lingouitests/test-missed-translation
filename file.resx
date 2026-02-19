@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <root>
   <data name="name1">
-    <value><![CDATA[val1_tr]]></value>
+    <value><![CDATA[val1]]></value>
   </data>
   <data name="name2">
     <value><![CDATA[val2]]></value>
